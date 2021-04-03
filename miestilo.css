@@ -1,0 +1,10 @@
+/* Comentario en CSS */
+
+body{
+
+    background-color: rgb(73, 159, 222);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 11em;
+
+}
